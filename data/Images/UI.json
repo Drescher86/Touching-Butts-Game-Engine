@@ -1,0 +1,26 @@
+{"frames": [
+
+{
+	"filename": "button",
+	"frame": {"x":0,"y":50,"w":190,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 190,
+		"h": 48
+	},
+	"sourceSize": {"w":190,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "UI.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:447a3cad15546afa1009ea8b519ed791:9a92a1e59c9e7c56ce1df3390d3fb88e:c9aa93d39e3aafb82d78690c408c53d5$"
+}
+}

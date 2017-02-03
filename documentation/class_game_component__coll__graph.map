@@ -1,0 +1,3 @@
+<map id="GameComponent" name="GameComponent">
+<area shape="rect" id="node2" href="$class_game_object.html" title="{GameObject\n||+ ~GameObject()\l+ clone()\l+ getId()\l+ getName()\l+ addComponent()\l+ addComponentNonPointer()\l+ getComponentNonPointer()\l+ getComponentWithId()\l+ removeComponent()\l+ getParent()\l+ getComponent()\l+ setIndestructible()\l+ isIndestructible()\l# postPhysicsUpdate()\l# update()\l# preRenderUpdate()\l# render()\l# postRenderUpdate()\l}" alt="" coords="5,5,236,385"/>
+</map>

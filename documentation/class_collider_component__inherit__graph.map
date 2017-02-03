@@ -1,0 +1,6 @@
+<map id="ColliderComponent" name="ColliderComponent">
+<area shape="rect" id="node3" href="$class_box2_d_collider_component.html" title="{Box2DColliderComponent\n||# onCollisionEnter()\l# onCollisionExit()\l# onCollisionStay()\l# Box2DColliderComponent()\l# postInit()\l}" alt="" coords="5,671,233,825"/>
+<area shape="rect" id="node4" href="$class_circle_collider_component.html" title="{CircleColliderComponent\n||# onCollisionEnter()\l# onCollisionExit()\l# onCollisionStay()\l# postInit()\l# CircleColliderComponent()\l}" alt="" coords="258,671,479,825"/>
+<area shape="rect" id="node5" href="$class_rigid_body_component.html" title="{RigidBodyComponent\n||+ onCollisionEnter()\l+ onCollisionExit()\l+ onCollisionStay()\l+ applyForce()\l+ applyImpulse()\l+ getVelocity()\l+ setVelocity()\l# RigidBodyComponent()\l# postInit()\l}" alt="" coords="504,636,703,860"/>
+<area shape="rect" id="node2" href="$class_game_component.html" title="{GameComponent\n|# gameObject\l# m_componentId\l|+ ~GameComponent()\l+ getGameObject()\l+ getId()\l# render()\l# update()\l# postInit()\l# GameComponent()\l# onRemove()\l}" alt="" coords="279,5,458,229"/>
+</map>

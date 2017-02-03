@@ -1,0 +1,3 @@
+<map id="Animation2DComponent" name="Animation2DComponent">
+<area shape="rect" id="node2" href="$class_game_component.html" title="{GameComponent\n|# gameObject\l# m_componentId\l|+ ~GameComponent()\l+ getGameObject()\l+ getId()\l# render()\l# update()\l# postInit()\l# GameComponent()\l# onRemove()\l}" alt="" coords="25,5,203,229"/>
+</map>

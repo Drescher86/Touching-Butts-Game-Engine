@@ -1,0 +1,32 @@
+{
+	  "meta": [{
+		"spriteAtlasJsonDir":"data/Images",
+		"spriteAtlasJsonFile":"MarioPacked.json"
+	  }
+	  ],
+	  "gameobjects": [
+	  	{
+		  "uniqueId": 0,
+		  "name": "main",
+		  "color": [ 1, 1, 1, 1 ],
+		  "position": [ 0, 0, 0 ],
+		  "rotationEuler": [ 0, 0, 0 ],
+		  "scale": [ 1, 1, 1 ],
+		  "parentId": -1,
+		  "script": "data/PhysicsTechDemoScripts/main.lua",
+		  "scriptTable": "Main"
+		},
+		{
+		  "uniqueId": 9999,
+      "name": "bottom",
+	  "spriteName":"brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 0, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 200, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/PhysicsTechDemoScripts/BottomScript.lua",
+      "scriptTable": "BottomScript"
+		}
+	]
+}

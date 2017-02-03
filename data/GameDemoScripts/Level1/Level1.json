@@ -1,0 +1,795 @@
+{
+	  "meta": [{
+		"spriteAtlasJsonDir":"data/Images",
+		"spriteAtlasJsonFile":"MarioPacked.json"
+	  },
+	  {
+		"spriteAtlasJsonDir":"data/Images",
+		"spriteAtlasJsonFile":"Background.json"
+	  },
+	  {
+		"spriteAtlasJsonDir":"data/Images",
+		"spriteAtlasJsonFile":"Coin.json"
+	  }
+	  ],
+	  "gameobjects": [
+	  	{
+      "uniqueId": 0,
+      "name": "mario",
+      "animations": [
+        {
+          "animationName" : "mario_8"
+        }
+      ],
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 10, 40, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/marioScript.lua",
+	  "scriptTable": "Mario"
+    },
+    {
+      "uniqueId": 1,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 0, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+    {
+      "uniqueId": 2,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 32, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+    {
+      "uniqueId": 3,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 64, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 4,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 96, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+    {
+      "uniqueId": 5,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 128, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+    {
+      "uniqueId": 6,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 160, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 7,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 192, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+    {
+      "uniqueId": 8,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 224, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+    {
+      "uniqueId": 9,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 256, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 10,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 288, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+    {
+      "uniqueId": 11,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 320, 32, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+    {
+      "uniqueId": 12,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 352, 32, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 13,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 384, 32, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 14,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 384, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 15,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 352, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 16,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 320, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 17,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 414, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 18,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 500, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 19,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 532, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 20,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 564, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 21,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 564, 32, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 22,
+      "name": "brick 13",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 564, 64, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 23,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 596, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 24,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 596, 32, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 25,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 596, 64, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 26,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 628, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 27,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 628, 32, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 28,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 660, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 29,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 692, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 30,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 780, 100, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 31,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 812, 100, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 32,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 844, 100, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 33,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 876, 100, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 34,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 900, 100, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+	  
+    },
+	{
+      "uniqueId": 35,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 932, 100, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+	
+	{
+      "uniqueId": 35,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 932, 100, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+	{
+      "uniqueId": 36,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 932, 100, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },{
+      "uniqueId": 37,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 1364, 100, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },{
+	
+      "uniqueId": 38,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 1396, 100, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },{
+	
+      "uniqueId": 39,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 1428, 100, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+	{
+      "uniqueId": 40,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 500, 200, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },{
+	
+      "uniqueId": 41,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 532, 200, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },{
+	
+      "uniqueId": 42,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 564, 200, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+	
+	{
+      "uniqueId": 43,
+      "name": "mushroom",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 532, 250, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/mushroomScript.lua",
+      "scriptTable": "Mushroom"
+    },
+	{
+	
+      "uniqueId": 44,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 632, 100, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+	{
+	
+      "uniqueId": 45,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 664, 120, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+	{
+	
+      "uniqueId": 50,
+      "name": "brick",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 696, 150, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+	{
+	
+      "uniqueId": 46,
+      "name": "plant",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 350, 60, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 0.7, 0.7, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/plantScript.lua",
+      "scriptTable": "Plant"
+    },
+	{
+	
+      "uniqueId": 47,
+      "name": "plant",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 150, 30, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 0.7, 0.7, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/plantScript.lua",
+      "scriptTable": "Plant"
+    },
+	{
+      "uniqueId": 48,
+      "name": "tube",
+	  "spriteName":"green_tube",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 1390, 130, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 0.65, 0.65, 1 ],
+      "parentId": -1,
+	  "script":"data/GameDemoScripts/tubeScript.lua",
+	  "scriptTable":"Tube"
+    },
+	{
+      "uniqueId": 51,
+      "name": "coin",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 80, 30, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 0.05, 0.05, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/coinScript.lua",
+      "scriptTable": "Coin"
+    },
+	{
+      "uniqueId": 52,
+      "name": "coin",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 110, 30, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 0.05, 0.05, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/coinScript.lua",
+      "scriptTable": "Coin"
+    },
+	{
+      "uniqueId": 53,
+      "name": "coin",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 180, 30, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 0.05, 0.05, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/coinScript.lua",
+      "scriptTable": "Coin"
+    },
+	{
+      "uniqueId": 54,
+      "name": "coin",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 210, 30, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 0.05, 0.05, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/coinScript.lua",
+      "scriptTable": "Coin"
+    },
+	{
+      "uniqueId": 55,
+      "name": "coin",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 240, 30, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 0.05, 0.05, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/coinScript.lua",
+      "scriptTable": "Coin"
+    },
+	{
+      "uniqueId": 56,
+      "name": "coin",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 270, 30, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 0.05, 0.05, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/coinScript.lua",
+      "scriptTable": "Coin"
+    },
+	{
+      "uniqueId": 57,
+      "name": "coin",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 350, 250, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 0.05, 0.05, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/coinScript.lua",
+      "scriptTable": "Coin"
+    },
+	{
+      "uniqueId": 58,
+      "name": "coin",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 320, 60, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 0.05, 0.05, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/coinScript.lua",
+      "scriptTable": "Coin"
+    },
+	{
+      "uniqueId": 59,
+      "name": "coin",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 380, 60, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 0.05, 0.05, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/coinScript.lua",
+      "scriptTable": "Coin"
+    },
+	{
+      "uniqueId": 60,
+      "name": "coin",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 500, 90, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 0.05, 0.05, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/coinScript.lua",
+      "scriptTable": "Coin"
+    },
+	{
+      "uniqueId": 9999,
+      "name": "fallKiller",
+	  "spriteName":"brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 0, -45, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 200, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/fallDownKillerScript.lua",
+      "scriptTable": "FallDownKiller"
+    },
+	{
+      "uniqueId": 10000,
+      "name": "cameraController",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 0, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/GameDemoScripts/cameraControllerScript.lua",
+      "scriptTable": "CameraController"
+    }
+	]
+}

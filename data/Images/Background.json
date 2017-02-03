@@ -1,0 +1,13 @@
+{"frames": [
+
+{
+	"filename": "background",
+	"frame": {"x":0,"y":0,"w":1032,"h":774},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"image": "Background.png",
+	"size": {"w":1032,"h":774},
+	"scale": "1"
+}
+}

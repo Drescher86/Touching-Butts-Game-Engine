@@ -1,0 +1,4 @@
+<map id="ScriptableComponent" name="ScriptableComponent">
+<area shape="rect" id="node2" href="$class_game_component.html" title="{GameComponent\n|# gameObject\l# m_componentId\l|+ ~GameComponent()\l+ getGameObject()\l+ getId()\l# render()\l# update()\l# postInit()\l# GameComponent()\l# onRemove()\l}" alt="" coords="5,5,184,229"/>
+<area shape="rect" id="node3" href="$class_i_event_listener.html" title="{IEventListener\n||+ onEvent()\l}" alt="" coords="208,75,328,160"/>
+</map>

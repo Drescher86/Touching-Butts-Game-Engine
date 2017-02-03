@@ -1,0 +1,5 @@
+<map id="GuiElementComponent" name="GuiElementComponent">
+<area shape="rect" id="node3" href="$class_button_component.html" title="{ButtonComponent\n|+ onClick\l|# ButtonComponent()\l# update()\l}" alt="" coords="5,532,176,635"/>
+<area shape="rect" id="node4" href="$class_text_component.html" title="{TextComponent\n||+ setText()\l# update()\l# render()\l# TextComponent()\l}" alt="" coords="200,515,355,652"/>
+<area shape="rect" id="node2" href="$class_game_component.html" title="{GameComponent\n|# gameObject\l# m_componentId\l|+ ~GameComponent()\l+ getGameObject()\l+ getId()\l# render()\l# update()\l# postInit()\l# GameComponent()\l# onRemove()\l}" alt="" coords="95,5,273,229"/>
+</map>

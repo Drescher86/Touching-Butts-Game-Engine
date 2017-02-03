@@ -1,0 +1,32 @@
+{
+	  "meta": [{
+		"spriteAtlasJsonDir":"data/Images",
+		"spriteAtlasJsonFile":"MarioPacked.json"
+	  },
+	  {
+		"spriteAtlasJsonDir":"data/Images",
+		"spriteAtlasJsonFile":"Background.json"
+	  },
+	  {
+		"spriteAtlasJsonDir":"data/Images",
+		"spriteAtlasJsonFile":"Coin.json"
+	  },
+		{
+		"spriteAtlasJsonDir":"data/Images",
+		"spriteAtlasJsonFile":"UI.json"
+	  }
+	  ],
+	  "gameobjects": [
+	  	{
+		  "uniqueId": 0,
+		  "name": "main",
+		  "color": [ 1, 1, 1, 1 ],
+		  "position": [ 0, 0, 0 ],
+		  "rotationEuler": [ 0, 0, 0 ],
+		  "scale": [ 1, 1, 1 ],
+		  "parentId": -1,
+		  "script": "data/ScriptingTechDemoScripts/main.lua",
+		  "scriptTable": "Main"
+		}
+	]
+}

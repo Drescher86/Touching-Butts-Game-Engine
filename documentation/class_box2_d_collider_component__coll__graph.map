@@ -1,0 +1,5 @@
+<map id="Box2DColliderComponent" name="Box2DColliderComponent">
+<area shape="rect" id="node2" href="$class_collider_component.html" title="{ColliderComponent\n|# m_staticBody\l# m_body\l# m_fixture\l# m_postInited\l|+ moveObject()\l+ setToTrigger()\l+ setIfDynamic()\l+ setRadius()\l# onCollisionEnter()\l# onCollisionExit()\l# onCollisionStay()\l# postInit()\l# onRemove()\l# update()\l# ColliderComponent()\l}" alt="" coords="31,707,211,1017"/>
+<area shape="rect" id="node3" href="$class_game_component.html" title="{GameComponent\n|# m_componentId\l|+ ~GameComponent()\l+ getGameObject()\l+ getId()\l# render()\l# update()\l# postInit()\l# GameComponent()\l# onRemove()\l}" alt="" coords="31,451,210,657"/>
+<area shape="rect" id="node4" href="$class_game_object.html" title="{GameObject\n||+ ~GameObject()\l+ clone()\l+ getId()\l+ getName()\l+ addComponent()\l+ addComponentNonPointer()\l+ getComponentNonPointer()\l+ getComponentWithId()\l+ removeComponent()\l+ getParent()\l+ getComponent()\l+ setIndestructible()\l+ isIndestructible()\l# postPhysicsUpdate()\l# update()\l# preRenderUpdate()\l# render()\l# postRenderUpdate()\l}" alt="" coords="5,5,236,385"/>
+</map>

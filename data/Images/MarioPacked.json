@@ -1,0 +1,146 @@
+{"frames": [
+
+{
+	"filename": "brick",
+	"frame": {"x":0,"y":0,"w":32,"h":30},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cloud_0",
+	"frame": {"x":154,"y":86,"w":92,"h":44},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cloud_1",
+	"frame": {"x":62,"y":86,"w":92,"h":44},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "green_plant_0",
+	"frame": {"x":414,"y":38,"w":48,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "green_plant_1",
+	"frame": {"x":318,"y":38,"w":48,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "green_plant_2",
+	"frame": {"x":366,"y":38,"w":48,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "green_plant_3",
+	"frame": {"x":270,"y":38,"w":48,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "green_plant",
+	"frame": {"x":270,"y":38,"w":48,"h":48},
+	"frameCount" : 4,
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "green_tube",
+	"frame": {"x":0,"y":86,"w":62,"h":62},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "green_tube_horizontal",
+	"frame": {"x":246,"y":86,"w":96,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mario_0",
+	"frame": {"x":450,"y":0,"w":38,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mario_1",
+	"frame": {"x":412,"y":0,"w":38,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mario_2",
+	"frame": {"x":374,"y":0,"w":38,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mario_3",
+	"frame": {"x":70,"y":0,"w":38,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mario_4",
+	"frame": {"x":32,"y":0,"w":38,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mario_5",
+	"frame": {"x":184,"y":0,"w":38,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mario_6",
+	"frame": {"x":222,"y":0,"w":38,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mario_7",
+	"frame": {"x":298,"y":0,"w":38,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mario_8",
+	"frame": {"x":336,"y":0,"w":38,"h":38},
+	"frameCount" : 3,
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mario_11",
+	"frame": {"x":108,"y":0,"w":38,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mushroom_y0",
+	"frame": {"x":45,"y":38,"w":45,"h":45},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mushroom_y1",
+	"frame": {"x":90,"y":38,"w":45,"h":45},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mushroom_y2",
+	"frame": {"x":180,"y":38,"w":45,"h":45},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mushroom_y3",
+	"frame": {"x":0,"y":38,"w":45,"h":45},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mushroom_y4",
+	"frame": {"x":135,"y":38,"w":45,"h":45},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mushroom_y5",
+	"frame": {"x":225,"y":38,"w":45,"h":45},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mushroom",
+	"frame": {"x":0,"y":38,"w":45,"h":45},
+	"frameCount" : 6,
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"image": "MarioPacked.png",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

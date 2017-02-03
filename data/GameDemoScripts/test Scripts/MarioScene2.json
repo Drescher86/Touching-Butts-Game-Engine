@@ -1,0 +1,44 @@
+{
+  "meta": [{
+	"spriteAtlasJsonDir":"data",
+	"spriteAtlasJsonFile":"MarioPacked.json"
+  }],
+  "gameobjects": [
+    {
+      "uniqueId": 0,
+      "name": "mario",
+      "spriteName": "mario_1",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 10, 40, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/marioScript.lua",
+	  "scriptTable": "Mario"
+    },
+    {
+      "uniqueId": 1,
+      "name": "brick 1",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 0, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/brickScript.lua",
+      "scriptTable": "Brick"
+    },
+    {
+      "uniqueId": 2,
+      "name": "brick 2",
+      "spriteName": "brick",
+      "color": [ 1, 1, 1, 1 ],
+      "position": [ 32, 0, 0 ],
+      "rotationEuler": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "parentId": -1,
+	  "script": "data/brickScript.lua",
+      "scriptTable": "Brick"
+    }
+  ]
+}
